@@ -1,4 +1,5 @@
 # Preliminaries-ai1-fall2019
+HELLO WORLDadsfadsfdfsf
 Git and Baby Python Preliminaries for Ai1, Fall 2019
 
 1. Students should install [Anaconda Python 3.7 version](https://www.anaconda.com/distribution/#download-section)
@@ -13,3 +14,4 @@ On all OS's open a terminal with bash running. On OSX this is `Terminal.app`, on
 
 
 
+dsfadsf
